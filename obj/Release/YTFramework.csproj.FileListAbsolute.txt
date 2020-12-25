@@ -1,0 +1,10 @@
+H:\Coding\Projects\Complementary_DNA\YTFramework\bin\Release\YTFramework.exe.config
+H:\Coding\Projects\Complementary_DNA\YTFramework\bin\Release\YTFramework.exe
+H:\Coding\Projects\Complementary_DNA\YTFramework\bin\Release\YTFramework.pdb
+H:\Coding\Projects\Complementary_DNA\YTFramework\bin\Release\HtmlAgilityPack.dll
+H:\Coding\Projects\Complementary_DNA\YTFramework\bin\Release\HtmlAgilityPack.pdb
+H:\Coding\Projects\Complementary_DNA\YTFramework\bin\Release\HtmlAgilityPack.xml
+H:\Coding\Projects\Complementary_DNA\YTFramework\obj\Release\YTFramework.csproj.CoreCompileInputs.cache
+H:\Coding\Projects\Complementary_DNA\YTFramework\obj\Release\YTFramework.csproj.CopyComplete
+H:\Coding\Projects\Complementary_DNA\YTFramework\obj\Release\YTFramework.exe
+H:\Coding\Projects\Complementary_DNA\YTFramework\obj\Release\YTFramework.pdb
